@@ -1,0 +1,67 @@
+body {
+  background-color: none;
+  color: none;
+  font-family: "Oxygen", Arial, sans-serif;
+  font-size: 1.2em;
+}
+.haha {
+  background-image: url(https://i.pinimg.com/564x/8b/99/fa/8b99fa27a18f506d8b0a08c5150b5539.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+#wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  background-color: #d9cab3;
+}
+header {
+  background-color: #none;
+  text-align: center;
+}
+h1 {
+  line-height: 200%;
+  font-family: "Poiret One", Arial, sans-serif;
+  background-color: none;
+  color: #fffdd0;
+  text-shadow: -3px 3px #92140c;
+}
+h3 {
+  line-height: 200%;
+  font-family: "Comfortaa", Arial, sans-serif;
+  background-color: none;
+  color: #92140c;
+  text-shadow: -2px 1px black;
+}
+nav {
+  font-weight: bold;
+  text-align: center;
+  background-color: #92140c;
+  line-height: 200%;
+}
+nav a {
+  text-decoration: none;
+  color: #fffdd0;
+  text-shadow: -3px 1px black;
+}
+main { 
+  text-indent: 5%;
+}
+.studio {
+  font-style: italic;
+}
+footer {
+  background-color: #92140c;
+  font-size: .60em;
+  font-style: italic;
+  text-align: center;
+  color: black;
+  line-height: 200%;
+}
+h4 {
+  font-weight: 900;
+  text-shadow: .25px .25px black;
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
