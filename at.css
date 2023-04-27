@@ -1,10 +1,12 @@
 main {
 padding: 0px 25px 25px 25px;
+position: relative;
 } 
 li {
 margin-left: 25px;
 }  
 img {
+position: absolute;
 float: right;    
 padding: 10px;
 top: 300px;
