@@ -44,6 +44,10 @@ nav a {
   color: #43291f;
   text-shadow: .20px .20x #d9ed92;
 }
+a:hover {
+  color: #ff9e78;  
+  text-shadow: .5px .5px orange;  
+}
 main { 
   text-indent: 5%;
 }
