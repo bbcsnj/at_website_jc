@@ -45,7 +45,8 @@ nav a {
   text-shadow: .5px .5px black;
 }
 a:hover {
-  color: #4d6c90;  
+  color: #c2f5ff;  
+  text-shadow: .5px .5px white;  
 }
 main { 
   text-indent: 5%;
